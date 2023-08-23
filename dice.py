@@ -26,7 +26,3 @@ while True:
     if repeat != "y":
         print ("Thanks for playing.")
         break  # Finish the game
-        
-
-
-
