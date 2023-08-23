@@ -1,4 +1,4 @@
-# Cinco mini-projetos iniciantes em Python 
+# Mini-projetos para iniciantes em Python 
 
 Exercícios para aprendizado da linguagem Python encontrados no site: 
 https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
@@ -17,4 +17,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Github
 
 
+<<<<<<< HEAD
 Feito com ♥ @RaquelGui# dice
+=======
+Feito com ♥ @RaquelGui
+>>>>>>> 3183ba077fffe7f8ad60b2172d6baab3f953734e
