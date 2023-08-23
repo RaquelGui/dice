@@ -17,8 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Github
 
 
-<<<<<<< HEAD
-Feito com ♥ @RaquelGui# dice
-=======
+
+
 Feito com ♥ @RaquelGui
->>>>>>> 3183ba077fffe7f8ad60b2172d6baab3f953734e
+
