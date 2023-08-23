@@ -1,4 +1,4 @@
-# Cinco mini-projetos iniciantes em Python 
+# Mini-projetos para iniciantes em Python 
 
 Exercícios para aprendizado da linguagem Python encontrados no site: 
 https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
